@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1133.8583"
+   height="1523.6221"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="新建文档 1">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="1384.1111"
+     inkscape:cy="749.01038"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="mm"
+     inkscape:window-width="1024"
+     inkscape:window-height="718"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,471.25937)">
+    <path
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none"
+       d="M 0 0 L 0 1523.625 L 1133.875 1523.625 L 1133.875 0 L 0 0 z M 393.1875 117.5 C 412.15582 117.5 427.53125 132.87543 427.53125 151.84375 C 427.53125 170.81207 412.15582 186.1875 393.1875 186.1875 C 374.21918 186.1875 358.84375 170.81207 358.84375 151.84375 C 358.84375 132.87543 374.21918 117.5 393.1875 117.5 z M 740.6875 117.5 C 759.65582 117.5 775.03125 132.87543 775.03125 151.84375 C 775.03125 170.81207 759.65582 186.1875 740.6875 186.1875 C 721.71918 186.1875 706.34375 170.81207 706.34375 151.84375 C 706.34375 132.87543 721.71918 117.5 740.6875 117.5 z "
+       id="rect2985"
+       transform="translate(0,-471.25937)" />
+    <path
+       id="path3378"
+       d="M 566.93345,290.49597 C 253.84563,290.49597 0,544.31436 0,857.42251 c 0,313.11509 253.8523,566.94019 566.93345,566.94019 313.07424,0 566.92655,-253.8251 566.92655,-566.94019 0,-313.10815 -253.85231,-566.92654 -566.92655,-566.92654 z m 2.711,78.51087 c 269.76586,0 488.63275,218.69046 488.63275,488.41567 0,269.76589 -218.89381,488.42259 -488.63275,488.42259 -145.6626,0 -276.36726,-63.8376 -365.8442,-164.9651 36.78848,-28.5604 98.34205,-21.5932 174.14864,-12.9519 36.32734,4.1343 77.74498,8.8718 120.48405,9.8207 119.42025,0.6912 247.9153,-21.0985 327.21907,-55.7587 51.26504,-22.4879 84.09546,-37.2899 104.61793,-55.9688 7.40091,-6.0658 11.27773,-16.205 15.23581,-26.7238 l 2.711,-7.0961 c 3.32083,-8.4991 8.09918,-26.778 10.23394,-36.7545 0.95562,-4.3647 1.43034,-9.0617 -1.66697,-11.4812 l -11.06803,2.0875 c -34.80241,20.868 -121.73088,60.6047 -203.18325,62.2313 C 641.60831,1050.399 438.20796,946.6825 416.99415,935.737 l -2.08734,-2.5079 C 409.82343,921.0905 379.37898,848.8286 372.93343,833.62668 519.34837,930.0437 640.73396,983.41 733.7691,991.6988 c 103.43853,9.1903 184.1183,-47.2868 218.62926,-71.4146 6.737,-4.5952 11.87422,-8.20096 13.98898,-8.98035 l 2.29062,-3.76159 C 962.95783,871.19449 908.68343,695.25674 867.82176,652.99872 856.48968,641.40911 847.48923,630.12458 829.19663,619.38226 681.28392,533.17209 330.07235,481.24946 313.63022,478.85023 l -2.71792,0.8404 -1.04379,2.29758 c 0,0 -1.31475,72.9262 -1.46369,81.01858 C 296.35424,559.0216 258.98285,546.78138 205.46078,532.10125 275.31013,445.681 382.34068,369.00684 569.64445,369.00684 z m 129.05104,258.51522 c 2.48723,-0.0674 5.00187,-0.0884 7.51627,0 82.85505,2.97524 147.95322,72.76348 145.1202,155.56451 -1.4706,40.0552 -18.36028,77.06726 -47.61225,104.40797 -29.33297,27.48276 -67.45647,41.81046 -107.73547,40.50906 -82.71945,-3.0903 -147.81787,-72.87856 -145.13378,-155.56449 1.4165,-40.11611 18.39412,-77.36536 47.82218,-104.61794 27.46941,-25.76125 62.63096,-39.73665 100.02285,-40.29911 z m -3.9719,44.27089 c -24.13475,1.47065 -46.90042,11.27083 -64.73188,27.9843 -20.3192,19.07209 -32.31543,44.90124 -33.19671,72.87879 -1.91791,57.79872 43.3153,106.44108 101.06664,108.58275 28.06565,0.86077 54.66762,-8.96663 75.16267,-27.98431 20.44121,-19.16696 32.33568,-45.22651 33.21005,-73.08224 1.93149,-57.89356 -43.51166,-106.35293 -101.27659,-108.37929 -3.49052,-0.12794 -6.7911,-0.2092 -10.23418,0 z m 27.56425,52.41048 c 25.66661,0 46.35826,13.94821 46.35826,31.11578 0,17.08597 -20.69165,31.11553 -46.35826,31.11553 -25.74786,0 -46.56845,-14.05653 -46.56845,-31.11553 0,-17.16757 20.82059,-31.11578 46.56845,-31.11578 z"
+       inkscape:connector-curvature="0"
+       style="fill:#01ff02;fill-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9987"
+       style="fill:#ffffff;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:'文泉驿微米黑';font-style:normal;font-weight:normal;font-size:16px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'文泉驿微米黑';font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion9989"><rect
+           id="rect9991"
+           width="408.10162"
+           height="133.34013"
+           x="395.9798"
+           y="234.66742"
+           style="fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara9993"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9995"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'文泉驿微米黑';-inkscape-font-specification:'文泉驿微米黑'"
+       transform="translate(0,-471.25937)"><flowRegion
+         id="flowRegion9997"><rect
+           id="rect9999"
+           width="553.5636"
+           height="428.30469"
+           x="363.65491"
+           y="246.78926" /></flowRegion><flowPara
+         id="flowPara10001"
+         style="fill:#ffffff;font-size:128px">openSUSE</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10003"
+       style="font-size:128px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#01ff02;fill-opacity:1;stroke:none;font-family:'文泉驿微米黑';-inkscape-font-specification:'文泉驿微米黑'"
+       transform="translate(186.98438,-556.11218)"><flowRegion
+         id="flowRegion10005"><rect
+           id="rect10007"
+           width="747.51288"
+           height="359.61432"
+           x="234.35539"
+           y="319.52023"
+           style="fill:#01ff02;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara10009"
+         style="font-size:64px;fill:#01ff02;fill-opacity:1">openSUSE</flowPara></flowRoot>  </g>
+</svg>
