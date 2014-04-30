@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 512 512"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   width="100%"
+   height="100%"
+   sodipodi:docname="sword-clash.svg"
+   inkscape:export-filename="/home/marguerite/sword-clash.svg.png"
+   inkscape:export-xdpi="5.6199999"
+   inkscape:export-ydpi="5.6199999">
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs26" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1024"
+     inkscape:window-height="718"
+     id="namedview24"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="222.44909"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     d="M -2.1694915,0 H 509.83051 V 512 H -2.1694915 z"
+     id="path4"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#d40000"
+     inkscape:connector-curvature="0"
+     id="path8"
+     d="m 249.13528,361.56684 -46.20564,78.23601 7.80996,23.60554 27.77123,-11.33836 z" />
+  <path
+     style="fill:#d40000"
+     inkscape:connector-curvature="0"
+     id="path10"
+     d="m 264.96264,362.3854 84.32848,82.92684 3.51719,31.98177 -36.47637,-10.28433 z" />
+  <path
+     style="fill:#ffffff;stroke:#000000;stroke-width:18.68857956"
+     inkscape:connector-curvature="0"
+     id="path12"
+     d="M 47.631278,27.82805 C 66.187169,260.44294 308.06412,387.12908 504.00266,456.13106 V 352.83928 C 368.56279,276.24974 188.3731,148.44788 47.631278,27.829919 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:18.68857956"
+     inkscape:connector-curvature="0"
+     id="path14"
+     d="M 503.59899,403.07792 C 364.20648,346.64588 166.40842,229.65724 165.87579,105.49592" />
+  <path
+     style="fill:#d40000"
+     inkscape:connector-curvature="0"
+     id="path16"
+     d="M 258.79541,159.32651 288.3215,36.286502 311.32527,25.628404 319.58562,47.333321 z" />
+  <path
+     style="fill:#ffffff;stroke:#000000;stroke-width:18.68857956"
+     inkscape:connector-curvature="0"
+     id="path18"
+     d="M 462.09352,27.82805 C 322.95891,147.06867 145.30153,273.77911 10.470905,350.57983 V 454.43787 C 205.51801,385.18547 443.67966,258.66191 462.09352,27.82805 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:18.68857956"
+     inkscape:connector-curvature="0"
+     id="path20"
+     d="M 8.63008,402.74713 C 147.90112,346.36555 345.52537,229.4797 346.058,105.42677" />
+  <path
+     style="fill:#d40000"
+     inkscape:connector-curvature="0"
+     id="path22"
+     d="M 246.12082,160.27215 205.42643,87.218489 213.94469,59.406144 239.2565,74.960649 z" />
+</svg>
